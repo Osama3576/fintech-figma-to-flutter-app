@@ -1,6 +1,6 @@
 # Fintech_app_flutter
 
-notes app for flutter practice
+A modern fintech mobile UI built in Flutter from a Figma design.
 
 ## Getting Started
 
