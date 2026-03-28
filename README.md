@@ -1,4 +1,4 @@
-# notes_app_flutter
+# Fintech_app_flutter
 
 notes app for flutter practice
 
